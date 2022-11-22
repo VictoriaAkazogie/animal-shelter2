@@ -1,0 +1,45 @@
+body a{
+  text-decoration: none;
+  color: black;
+}
+header{
+  display: flex;
+  padding: 2%;
+  background-color: #fdf0e6;
+  position: fixed;
+  width: 100%;
+}
+header button{
+  border: none;
+  border-radius: 30px;
+  padding: 10px 20px 10px;
+  color: white;
+  background-color: #f08e80;
+  font-size: medium;
+}
+header a{
+  margin-left: 2%;
+  margin-top: 10px;
+  font-size: x-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+.logo{
+  width: 11%;
+}
+.fa-solid{
+  margin-top: 25px;
+  margin-left: 35%;
+}
+.top{
+  padding-top: 5%;
+  background-color: #fdf0e6;
+}
+.inner{
+  padding: 5%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+  width: 43%;
+}
+.inner h1{
+  color: #f08e80;
+}

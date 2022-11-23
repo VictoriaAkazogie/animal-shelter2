@@ -179,7 +179,18 @@ width: 1500px;
   margin-top: 17%;
 }
 .end{
-  background-image: url(../img/images.jfif);
-  background-repeat: no-repeat;
-  background-size: cover;
+  margin-top: 10%;
+  background-color: #fdf0e6;
+  padding: 10%;
+}
+.end footer{
+  font-size: 40px;
+  margin-top: 3%;
+  color: black;
+}
+.fa-facebook-f{
+  margin-left: 50%;
+}
+.fa-instagram{
+  margin-left: 2%;
 }

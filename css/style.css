@@ -187,10 +187,17 @@ width: 1500px;
   font-size: 40px;
   margin-top: 3%;
   color: black;
+  margin-bottom: 10%;
 }
 .fa-facebook-f{
   margin-left: 50%;
 }
 .fa-instagram{
   margin-left: 2%;
+}
+.end a{
+  text-decoration: underline;
+  color: #f08e80;
+  margin-left: 48%;
+  font-size: 20px;
 }

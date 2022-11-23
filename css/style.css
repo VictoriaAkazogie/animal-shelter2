@@ -173,8 +173,13 @@ width: 1500px;
 .twin a{
   color: #f08e80;
 }
-.row img{
+.there img{
   width: 90%;
   height: 250px;
   margin-top: 17%;
+}
+.end{
+  background-image: url(../img/images.jfif);
+  background-repeat: no-repeat;
+  background-size: cover;
 }

@@ -24,6 +24,9 @@ header button{
   background-color: #f08e80;
   font-size: medium;
 }
+header button:hover{
+  opacity: ;
+}
 header a{
   margin-left: 2%;
   margin-top: 10px;

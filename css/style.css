@@ -111,7 +111,8 @@ header a{
   margin-top: 1.7%;
 }
 .slide{
-width: 1500px;
+/* width: 1500px; */
+width: 100%;
 }
 .same{
   height: 700px;

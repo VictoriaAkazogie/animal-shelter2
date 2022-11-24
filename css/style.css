@@ -25,7 +25,7 @@ header button{
   font-size: medium;
 }
 header button:hover{
-  opacity: ;
+  opacity: 0.5;
 }
 header a{
   margin-left: 2%;
@@ -151,6 +151,9 @@ width: 1500px;
   border: none;
   margin-top: 10%;
 }
+.mid button:hover{
+  opacity: 0.5;
+}
 #bet{
   margin: 16.9% 0% 5%;
 }
@@ -200,7 +203,7 @@ width: 1500px;
 .icons{
   margin-bottom: 3%;
 }
-.end a{
+.end-a{
   text-decoration: underline;
   color: #f08e80;
   margin-left: 48%;

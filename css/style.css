@@ -50,17 +50,18 @@ header a{
   display: flex;
 }
 .inner{
-  margin-top: 7%;
-  padding: 5%;
+  margin-top: 5%;
+  padding-bottom: 5%;
   font-family: 'Times New Roman', Times, serif;
   font-size: x-large;
-  width: 43%;
+  margin-left: 35%;
+  width: 100%;
 }
 .inner h1{
   color: #f08e80;
   font-size: 70px;
   margin-bottom: 20px;
-  text-align: center;
+  /* text-align: center; */
 }
 .lower{
   width: 30%;
@@ -111,8 +112,8 @@ header a{
   margin-top: 1.7%;
 }
 .slide{
-/* width: 1500px; */
-width: 100%;
+  margin-top: 10%;
+  width: 100%;
 }
 .same{
   height: 700px;

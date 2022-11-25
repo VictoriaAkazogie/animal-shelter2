@@ -9,7 +9,6 @@
 * _git_
 * _HTML_
 * _CSS_
-* _JavaScript_
 *_Bootstrap_
 
 ## Description
@@ -19,6 +18,12 @@ _The website brings awareness to the amount of homeless dogs in the world due to
 ## Known Bugs
 
 * _No known bugs_
+
+## Setup/Installation Requirements
+
+* _clone the repository to your desktop_
+* _navigate to your top directory_
+* _open the project_
 
 ## License
 
